@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linkq Tech</title>
+    <link>linkqtech.github.io/</link>
+    <description>Recent content on Linkq Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Dec 2020 18:05:58 +0800</lastBuildDate><atom:link href="linkqtech.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>linkqtech.github.io/posts/privacy-policy/</link>
+      <pubDate>Tue, 22 Dec 2020 18:05:58 +0800</pubDate>
+      
+      <guid>linkqtech.github.io/posts/privacy-policy/</guid>
+      <description>Your privacy is important to us. It is LinkQ Tech’s policy to respect your privacy regarding any information we may collect from you across our products.
+Currently, we run products including: LinkClock.
+We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.</description>
+    </item>
+    
+  </channel>
+</rss>
