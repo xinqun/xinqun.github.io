@@ -1,0 +1,1 @@
+# linkqtech.github.io
