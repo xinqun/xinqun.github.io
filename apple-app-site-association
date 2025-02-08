@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": ".com.xinqun.hualegehua", 
+        "appID": "BJ7PH7KG76.com.xinqun.hualegehua", 
         "paths": [ "/", "/settings", "/settings/*" ]
       }
     ]
